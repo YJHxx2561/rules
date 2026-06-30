@@ -1,0 +1,113 @@
+# 代理补充列表
+
+#add
+
+# NAME: Abema
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-01-08 16:02:56
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 15
+# TOTAL: 20
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
+DOMAIN,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,adx.promo
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,amebame.com
+DOMAIN-SUFFIX,amebaownd.com
+DOMAIN-SUFFIX,amebaowndme.com
+DOMAIN-SUFFIX,ameblo.jp
+DOMAIN-SUFFIX,bucketeer.jp
+DOMAIN-SUFFIX,dokusho-ojikan.jp
+DOMAIN-SUFFIX,hayabusa.dev
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,winticket.jp
+
+
+#机场域名
+DOMAIN-SUFFIX,llg01.com
+DOMAIN-KEYWORD,mitce
+DOMAIN-SUFFIX,xn--9kqz23b19z.com
+#良心云.com
+DOMAIN-SUFFIX,aisu.me
+DOMAIN-SUFFIX,fscloud.cc
+DOMAIN-SUFFIX,xn--mes358aby2apfg.com
+#赔钱机场.com
+DOMAIN-SUFFIX,linlujs.cloud
+
+
+DOMAIN-SUFFIX,skylumo.com
+
+#墙
+DOMAIN-SUFFIX,wplace.live
+
+DOMAIN-SUFFIX,lxc.wiki
+
+DOMAIN-SUFFIX,v2cross.net
+
+DOMAIN-SUFFIX,vipcloud.cc
+
+#h
+DOMAIN-SUFFIX,18hdm.com
+
+
+#其他域名
+DOMAIN-KEYWORD,v2rayssr
+
+#测试
+DOMAIN-SUFFIX,ipv6.yjhweb.vip
+
+
+
+#proton mail
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
+
+
+#cloudns.net
+DOMAIN-SUFFIX,cloudns.net
+
+
+#gmx邮箱
+DOMAIN-SUFFIX,gmx.com
+
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,qichiyu.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+
+# IP段匹配
+IP-CIDR,142.171.133.131/32,no-resolve
+IP-CIDR,103.115.43.2/32,no-resolve
+
+# 国外DNS
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,hk-hkg.doh.sb
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve

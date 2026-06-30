@@ -1,0 +1,8 @@
+# 内容：需要通过新加坡访问的域名和ip
+# 域名关键字匹配
+DOMAIN-KEYWORD,18comic
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-KEYWORD,jmcomic
+DOMAIN-KEYWORD,jm-3x
+# 域名后缀匹配
+# DOMAIN-SUFFIX,perplexity.ai
