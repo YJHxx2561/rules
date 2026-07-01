@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,zerotier
 
 
 
+DOMAIN-SUFFIX,ghfast.top
+
+
 #服务器ip
 IP-CIDR,154.82.136.181/32,no-resolve
 
