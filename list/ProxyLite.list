@@ -35,6 +35,11 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
 
 
+#sex_novel
+DOMAIN-SUFFIX,soushuge.com
+DOMAIN-SUFFIX,mysadhappy.com
+
+
 #机场域名
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-KEYWORD,mitce
